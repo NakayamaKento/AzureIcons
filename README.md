@@ -18,3 +18,6 @@ npm install @iconify-json/logos --save-dev
 Icon data can be used with many tools and components, see [Iconify documentation](https://iconify.design/docs/usage/).
 
 To convert to SVG, you can use [Iconify Utils](https://iconify.design/docs/libraries/utils/examples/export-svgs-from-icon-set.html) for basic usage or [Iconify Tools](https://iconify.design/docs/libraries/tools/).
+
+## Version
+2025-04-27 Update Azure icon data
