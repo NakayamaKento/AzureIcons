@@ -1,23 +1,23 @@
 {
   "name": "azureiconkento",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "module": "index.mjs",
   "types": "index.d.ts",
   "exports": {
-		"./*": "./*",
-		".": {
-			"types": "./index.d.ts",
-			"require": "./index.js",
-			"import": "./index.mjs"
-		},
-		"./icons.json": "./icons.json",
-		"./info.json": "./info.json"
-	},
+    "./*": "./*",
+    ".": {
+      "types": "./index.d.ts",
+      "require": "./index.js",
+      "import": "./index.mjs"
+    },
+    "./icons.json": "./icons.json",
+    "./info.json": "./info.json"
+  },
   "iconSet": {
-		"icons": "icons.json",
-		"info": "info.json"
-	},
+    "icons": "icons.json",
+    "info": "info.json"
+  },
   "scripts": {
     "test": ""
   },
