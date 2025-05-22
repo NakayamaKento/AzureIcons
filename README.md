@@ -10,7 +10,7 @@ Files:
 ## Installation
 
 ```bash
-npm install @iconify-json/logos --save-dev
+npm install azureiconkento --save-dev
 ```
 
 ## Usage
